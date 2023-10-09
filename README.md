@@ -2,7 +2,7 @@
 <h3 align="center">Your Fire Information App</h3>
 
 <p>FIGMA PROTOTYPE: <a target="_blank" href="https://www.figma.com/proto/I9dH8Y6R8r3TDMuvGHD7U2/Untitled?type=design&node-id=2-74&t=iHWN5zoYnaM7Gpo3-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A74&mode=design">FIGMA PROTOTYPE (CLICK HERE)</a> </p>
-<p>See what we did in a short time with data provided by NASA:  </p>
+<p>See what we did in a short time with data provided by NASA: <a href="https://discordapp.com/channels/1156996612984422461/1156996622618726488/1160768718360547418">Project in practice with API (CLICK HERE)</a> </p>
 
 <p>A presentation in PDF: <a href="NASA_Space_Apps_2023_-_MacuX_-_EyeFire (3).pdf">PDF (CLICK HERE)</a></p>
 
