@@ -4,6 +4,6 @@
 <p>FIGMA PROTOTYPE: <a target="_blank" href="https://www.figma.com/proto/I9dH8Y6R8r3TDMuvGHD7U2/Untitled?type=design&node-id=2-74&t=iHWN5zoYnaM7Gpo3-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A74&mode=design">FIGMA PROTOTYPE (CLICK HERE)</a> </p>
 <p>See what we did in a short time with data provided by NASA:  </p>
 
-<p>View the presentation in PDF:</p>
+<p>View the presentation in PDF: </p>
 
 
